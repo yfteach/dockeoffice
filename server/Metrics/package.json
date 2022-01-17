@@ -1,0 +1,9 @@
+{
+  "name": "metrics",
+  "version": "1.0.0",
+  "homepage": "http://www.onlyoffice.com",
+  "private": true,
+  "dependencies": {
+    "statsd": "https://github.com/ONLYOFFICE/statsd/archive/v0.8.1.tar.gz"
+  }
+}
